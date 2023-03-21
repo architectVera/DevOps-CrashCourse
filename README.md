@@ -1,2 +1,2 @@
-# DevOps-CrashCourse
-DevOps-CrashCourse
+DevOps Crash Course Lab
+Vera and Odnoralova
